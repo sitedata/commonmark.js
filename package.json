@@ -23,7 +23,7 @@
     "test": "node ./test/test.js"
   },
   "dependencies": {
-    "entities": "~ 1.1.1",
+    "entities": "~1.1.2",
     "mdurl": "~ 1.0.1",
     "string.prototype.repeat": "^0.2.0",
     "minimist": "~ 1.2.0"
